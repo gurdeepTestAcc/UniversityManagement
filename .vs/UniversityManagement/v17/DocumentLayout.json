@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE376BB-21EA-4C82-B16B-F8AE509C28E2}|UniversityManagement\\UniversityManagement.csproj|c:\\users\\sandh\\source\\repos\\universitymanagement\\universitymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE376BB-21EA-4C82-B16B-F8AE509C28E2}|UniversityManagement\\UniversityManagement.csproj|solutionrelative:universitymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE376BB-21EA-4C82-B16B-F8AE509C28E2}|UniversityManagement\\UniversityManagement.csproj|c:\\users\\sandh\\source\\repos\\universitymanagement\\universitymanagement\\models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE376BB-21EA-4C82-B16B-F8AE509C28E2}|UniversityManagement\\UniversityManagement.csproj|solutionrelative:universitymanagement\\models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE376BB-21EA-4C82-B16B-F8AE509C28E2}|UniversityManagement\\UniversityManagement.csproj|c:\\users\\sandh\\source\\repos\\universitymanagement\\universitymanagement\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE376BB-21EA-4C82-B16B-F8AE509C28E2}|UniversityManagement\\UniversityManagement.csproj|solutionrelative:universitymanagement\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE376BB-21EA-4C82-B16B-F8AE509C28E2}|UniversityManagement\\UniversityManagement.csproj|c:\\users\\sandh\\source\\repos\\universitymanagement\\universitymanagement\\models\\universitymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE376BB-21EA-4C82-B16B-F8AE509C28E2}|UniversityManagement\\UniversityManagement.csproj|solutionrelative:universitymanagement\\models\\universitymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE376BB-21EA-4C82-B16B-F8AE509C28E2}|UniversityManagement\\UniversityManagement.csproj|c:\\users\\sandh\\source\\repos\\universitymanagement\\universitymanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE376BB-21EA-4C82-B16B-F8AE509C28E2}|UniversityManagement\\UniversityManagement.csproj|solutionrelative:universitymanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE376BB-21EA-4C82-B16B-F8AE509C28E2}|UniversityManagement\\UniversityManagement.csproj|c:\\users\\sandh\\source\\repos\\universitymanagement\\universitymanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE376BB-21EA-4C82-B16B-F8AE509C28E2}|UniversityManagement\\UniversityManagement.csproj|solutionrelative:universitymanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\UniversityManagement\\Models\\University.cs",
+              "RelativeDocumentMoniker": "UniversityManagement\\Models\\University.cs",
+              "ToolTip": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\UniversityManagement\\Models\\University.cs",
+              "RelativeToolTip": "UniversityManagement\\Models\\University.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:57:02.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\UniversityManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "UniversityManagement\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\UniversityManagement\\Models\\Student.cs",
+              "RelativeToolTip": "UniversityManagement\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:55:31.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\UniversityManagement\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "UniversityManagement\\Models\\Faculty.cs",
+              "ToolTip": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\UniversityManagement\\Models\\Faculty.cs",
+              "RelativeToolTip": "UniversityManagement\\Models\\Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:56:24.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\UniversityManagement\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "UniversityManagement\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\UniversityManagement\\Models\\Department.cs",
+              "RelativeToolTip": "UniversityManagement\\Models\\Department.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAUwHkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:56:04.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversityMember.cs",
+              "DocumentMoniker": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\UniversityManagement\\Models\\UniversityMember.cs",
+              "RelativeDocumentMoniker": "UniversityManagement\\Models\\UniversityMember.cs",
+              "ToolTip": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\UniversityManagement\\Models\\UniversityMember.cs",
+              "RelativeToolTip": "UniversityManagement\\Models\\UniversityMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:58:54.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\UniversityManagement\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\sandh\\source\\repos\\UniversityManagement\\UniversityManagement\\Program.cs",
+              "RelativeToolTip": "UniversityManagement\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:54:00.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
